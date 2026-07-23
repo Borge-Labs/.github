@@ -10,6 +10,9 @@ make them.
   information easier to follow with visible sources and provenance.
 - [Ordrett](https://ordrett.app) provides Norwegian-first transcription for
   meetings, interviews, lectures, and other spoken material.
+- [Kontert](https://kontert.no) is self-hosted, AI-assisted bookkeeping for
+  Norwegian party branches, associations, and sole proprietorships, now in
+  early access.
 
 ## Open-source research
 
